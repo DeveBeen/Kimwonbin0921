@@ -1,7 +1,7 @@
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kimwonbin0921&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Kimwonbin0921&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 ### Studing Skill  
-<div align="leftr">  
+<div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
 </div>
